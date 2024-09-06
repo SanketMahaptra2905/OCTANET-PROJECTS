@@ -31,7 +31,7 @@ Welcome to **Stunning Visuals**, a captivating web project designed to showcase 
 
 ## 📬 Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com). 📧
+For any questions or feedback, please reach out to sanket29136@gmail.com. 📧
 
 ---
 
